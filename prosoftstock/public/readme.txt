@@ -1,0 +1,1 @@
+The place for all the public resources (images, css, js, ...).

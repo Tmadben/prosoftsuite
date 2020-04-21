@@ -1,1 +1,0 @@
-The place for all the resources.
