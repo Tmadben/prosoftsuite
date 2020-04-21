@@ -1,10 +1,6 @@
 <?php
 
-    if (!isset($_SERVER['PATH_INFO']))
-    {
-        echo "Home page";
-        exit();
-    }
+$url = isset($_SERVER['PATH_INFO']) ? explode('/', $_SERVER['PATH_INFO']) : '/';
 
-    print "The request path is : ".$_SERVER['PATH_INFO'];
+var_dump($url);
 ?>
