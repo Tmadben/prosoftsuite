@@ -1,1 +1,0 @@
-This is for core operation in the project.

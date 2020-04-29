@@ -1,0 +1,1 @@
+This is for core, database, helpers, libraries in the project.
